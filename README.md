@@ -1,2 +1,3 @@
 # Portfolio-Site
-My portfolio website mockup.
+My portfolio website.
+Using SASS and Bootstrap.
